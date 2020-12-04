@@ -5,3 +5,6 @@ help in SEO too
 
 
 # add courses section and paid services people pay to add their services in the search
+
+
+# rate search engines section 
