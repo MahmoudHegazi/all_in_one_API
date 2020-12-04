@@ -2,3 +2,6 @@
 API can return alot of search engines in one place the API have interface GUI and JSON URLS to help other apps to add awesome search experience 
 
 help in SEO too
+
+
+# add courses section and paid services people pay to add their services in the search
