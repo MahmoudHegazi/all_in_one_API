@@ -8,3 +8,25 @@ help in SEO too
 
 
 # rate search engines section 
+
+
+# YouTube API + section for Trending depnding on country:
+1- https://developers.google.com/custom-search/v1/overview
+
+# Google API + Scrping 
+
+# Bing Scraping
+
+# Amazon Proudct (free and premium API)
+
+# DuckDuckGo
+
+# Yahoo
+
+# Alibaba
+
+# Google Places and views and address API + search results API Full Info Search (premium)
+to get search and address and images to what you looking.
+
+
+# scrape API to add in your own site to create reports for you
